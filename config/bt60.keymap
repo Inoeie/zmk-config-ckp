@@ -9,6 +9,7 @@
 #define RAISE   1
 #define LOWER   2
 
+
 &sl {
 		release-after-ms = <2000>;
 	};
